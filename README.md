@@ -1,0 +1,2 @@
+# my-golang-example
+goであれやこれや
