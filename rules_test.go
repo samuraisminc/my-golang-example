@@ -14,7 +14,7 @@ func TestSimpleRule_Apply(t *testing.T) {
 	}
 	fs := fields{
 		base: 3,
-		text: "Fizz",
+		text: "Fizzz",
 	}
 	tests := []struct {
 		name   string
